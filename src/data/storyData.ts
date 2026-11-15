@@ -334,16 +334,6 @@ export const storyData: StoryConfig = {
       tag: "Forever"
     },
     {
-      id: "mem-13",
-      title: "Two Hearts, One Dream",
-      date: "Today & Always",
-      location: "Our Journey",
-      description: "From a matrimony connection to a lifetime of love and togetherness.",
-      imageUrl: "/images/shradha-13.jpg",
-      aspect: "portrait",
-      tag: "Together"
-    },
-    {
       id: "mem-14",
       title: "My Favourite Chapter",
       date: "Every Day with You",

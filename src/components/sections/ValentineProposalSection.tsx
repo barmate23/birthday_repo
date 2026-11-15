@@ -209,7 +209,7 @@ export const ValentineProposalSection: React.FC = () => {
             {/* Couple Photo Display */}
             <div className="relative my-6 w-full max-w-sm mx-auto h-52 sm:h-64 rounded-2xl overflow-hidden border-2 border-champagne-400/40 shadow-xl">
               <img
-                src={storyData.galleryMemories[12].imageUrl}
+                src="/images/birth.jpg"
                 alt="Us Together"
                 className="w-full h-full object-cover"
               />
